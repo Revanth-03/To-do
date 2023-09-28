@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
 
-  ```bash git clone https://github.com/your-username/react-todo-app.git```
+  ``` git clone https://github.com/your-username/react-todo-app.git```
   
 2.Change into the project directory:
     ```cd react-todo-app```
