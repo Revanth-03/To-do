@@ -94,9 +94,6 @@ const TodoWrapper = () => {
   return (
     <div className="TodoWrapper">
       <h1>Get Things Done!</h1>
-      {/* <button className="reset-button" onClick={resetTodos}>
-        Reset
-      </button> */}
       <TodoForm addTodo={addTodo} resetTodos={resetTodos} />
       {todos.map((todo) =>
         todo.isEditing ? (
