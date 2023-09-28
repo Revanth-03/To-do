@@ -1,6 +1,7 @@
 # React Todo App
 
 A simple React Todo application for managing your tasks.
+
 This React Todo App is hosted on Firebase and can be accessed [here](https://react-to-do-780c1.web.app/).
 
 ## Table of Contents
