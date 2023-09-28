@@ -7,9 +7,7 @@ const EditTodoForm = ({ editTask, task }) => {
     // prevent default action
     e.preventDefault();
     // edit todo
-    if (value.length === 0) {
-      editTask(task, task.id);
-    }
+    
     editTask(value, task.id);
   };
   return (
