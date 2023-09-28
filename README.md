@@ -28,12 +28,14 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/your-username/react-todo-app.git```
+  ```bash git clone https://github.com/your-username/react-todo-app.git```
+  
 2.Change into the project directory:
     ```cd react-todo-app```
+    
 3.Install the dependencies:
     ```npm install```
+    
 4.Start the development server:
    ```npm start```
 
@@ -59,7 +61,7 @@ To run this project locally, follow these steps:
 - [ ] **Reset the todo list:**
    - Click the "Reset" button in the top-right corner to clear all tasks and return to the initial state.
 
-## Contribution
+## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, follow these simple steps:
 
