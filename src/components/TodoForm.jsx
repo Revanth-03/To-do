@@ -14,7 +14,6 @@ const TodoForm = ({ addTodo, resetTodos }) => {
     }
   };
 
-  // Function to reset all todos and clear local storage
 
   return (
     <form onSubmit={handleSubmit} className="TodoForm">
